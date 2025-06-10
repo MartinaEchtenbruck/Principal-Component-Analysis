@@ -1,4 +1,4 @@
-# Principal Componen Analysis – Vorlesungsmaterialien
+# Principal Component Analysis – Vorlesungsmaterialien
 
 Dieses Repository enthält alle Materialien zur Probelehrveranstaltung zur **Principal Componen Analysis**. 
 Das Repository enthält neben den Vorlesungsfolien auch Übungen mit den zugehörigen Lösungen sowie begleitende Materialien.
