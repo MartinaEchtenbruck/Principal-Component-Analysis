@@ -9,6 +9,9 @@ Das Paper mit dem der Wein Datensatz erstmals veröffentlicht wurde. Die Autoren
 [R. Schlittgen, *Multivariate Statistik*](https://doi.org/10.1524/9783486710564)  
 Bietet eine ausführliche Einführung in die Hauptkomponenten Analyse aus Sicht der Statistik.
 
+[G. Meinhardt, *Fortgeschrittene statistische Methoden*](https://methodenlehre.uni-mainz.de/files/2019/04/Skript_fsM_WiSe1819.pdf)  
+Skript zur Vorlesung 'Fortgeschrittene statistische Methoden' (Johannes Gutenberg-Universität Mainz).
+
 ## Machine Learning / Python
 [J. Frochte, *Maschinelles Lernen*](https://www.hanser-elibrary.com/doi/book/10.3139/9783446463554)  
 Hauptkomponenten Analyse aus Sicht des Machine Learning mit Code-Beispielen in Python.
