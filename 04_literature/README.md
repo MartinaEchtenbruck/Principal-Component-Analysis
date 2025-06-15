@@ -16,6 +16,13 @@ Skript zur Vorlesung 'Fortgeschrittene statistische Methoden' (Johannes Gutenber
 [J. Frochte, *Maschinelles Lernen*](https://www.hanser-elibrary.com/doi/book/10.3139/9783446463554)  
 Hauptkomponenten Analyse aus Sicht des Machine Learning mit Code-Beispielen in Python.
 
+# Online Tutorials
+[V. Powell, *Principal Component Analysis explained visually*](https://setosa.io/ev/principal-component-analysis/)
+Eine interaktive Erklärung des Verfahrens.
+
+[scikit learn, *Decomposing signals in components (matrix factorization problems)*](https://scikit-learn.org/stable/modules/decomposition.html#pca)
+Ein online Tutorial, das auch Verwandte Verfahren vorstellt.
+
 # Videos
 
 ## Statistik
