@@ -1,10 +1,6 @@
 # Literatur
 In diesem Dokument ist ein wenig ergänzende Literatur zur Hauptkomponenten Analyse / Principal Component Analysis zusammengetragen.
 
-## Daten
-[P. Cortez, A. Cerdeira, *Modeling wine preferences by data mining from physicochemical properties*](https://doi.org/10.1016/j.dss.2009.05.016)
-Das Paper mit dem der Wein Datensatz erstmals veröffentlicht wurde. Die Autoren vergleichen darin drei Modellierungsverfahren um die Qualität des Weins anhand chemischer Daten zu bestimmen.
-
 ## Statistik
 [R. Schlittgen, *Multivariate Statistik*](https://doi.org/10.1524/9783486710564)  
 Bietet eine ausführliche Einführung in die Hauptkomponenten Analyse aus Sicht der Statistik.
